@@ -1,4 +1,4 @@
-# 👨‍🏫 Track Your Lecturer
+#  Track Your Lecturer
 
 A single-object tracker designed to follow a lecturer during online lectures. The application dynamically tracks the lecturer's position and resizes the viewing window to keep them in focus, improving the remote learning experience.
 
