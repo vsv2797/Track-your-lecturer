@@ -1,6 +1,6 @@
 #  Track Your Lecturer
 
-A single-object tracker designed to follow a lecturer during online lectures. The application dynamically tracks the lecturer's position and resizes the viewing window to keep them in focus, improving the remote learning experience.
+A single-object tracker designed to follow a lecturer during online lectures. The application dynamically tracks the lecturer's position and resizes the viewing window to keep them in focus, improving the remote learning experience. using python
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
